@@ -1,0 +1,34 @@
+.container {width: 80%; display: flex; justify-content: center;}
+
+.lead {
+    align-self: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.card{margin: 3%;}
+.card-title {
+    margin-bottom: .75rem;
+    color: #747474;;
+}
+#carte p{margin-top: 20px;margin-left: 0px;
+
+text-align: center;
+color: #9e4d4d;
+font: normal normal normal 25px/1.34em cormorantgaramond-light,cormorantgaramond,"cormorant garamond",serif;}
+h3{margin: 10%;font-size: 1rem;
+
+    text-align: center;
+    color: #9e4d4d;
+    font: normal normal normal 25px/1.34em cormorantgaramond-light,cormorantgaramond,"cormorant garamond",serif;}
+    .row{width: 100%;}
+
+ 
+ #carte p{color: white;}
+ div.shop{display: flex;justify-content: space-between;width: 100%; align-items: center}
+ .ShoppingCarte{margin: 10%;}
+ .bouton{width: 25px;height: 25px; }
+.totalprix{display: flex;justify-content: center;justify-items: center;margin-top: 0px;}
+.suprim{color: rgb(233, 223, 223);width: 25px;height: 25px;text-align: center;background-color: red;}
+ 
